@@ -1,2 +1,2 @@
 # TestRepo
-TestRepoDesc
+TestRepoDesc for git project
